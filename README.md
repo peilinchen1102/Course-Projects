@@ -2,6 +2,8 @@
 
 Weekly course projects
 
-Task: README,md
-Solution: lab.py
-Test Cases: test.py
+**Task:** README.md
+
+**Solution:** lab.py 
+
+**Test Cases:** test.py
