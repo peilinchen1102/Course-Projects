@@ -1,3 +1,7 @@
 # Course-Projects
 
-Weekly projects for MIT course 6.009
+Weekly course projects
+
+Task: README,md
+Solution: lab.py
+Test Cases: test.py
