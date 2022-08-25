@@ -1,6 +1,6 @@
-# Course-Projects
+# Projects
 
-Weekly course projects
+Weekly projects
 
 **Task:** README.md
 
